@@ -750,9 +750,9 @@ video {
     border-color: rgb(0 0 0 / var(--tw-border-opacity));
 }
 
-.bg-\[\#656839\] {
+.bg-slate-300 {
     --tw-bg-opacity: 1;
-    background-color: rgb(101 104 57 / var(--tw-bg-opacity));
+    background-color: rgb(203 213 225 / var(--tw-bg-opacity));
 }
 
 .bg-violet-200 {
