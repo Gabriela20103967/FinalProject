@@ -8,10 +8,10 @@
 
 | white    | 255, 255, 255  | #FFFFFF |
 
-| name 1   | rrr, ggg, bbb  | #RRGGBB |
+| violet   | 221, 214, 254  | #DDD6FE |
 
-| name 2   | rrr, ggg, bbb  | #RRGGBB |
+| purple   | 216, 180, 254  | #D8B4FE |
 
-| name 3   | rrr, ggg, bbb  | #RRGGBB |
+| rose     | 255, 228, 230  | #FFE4E6 |
 
-| name 4   | rrr, ggg, bbb  | #RRGGBB | 
+ 
