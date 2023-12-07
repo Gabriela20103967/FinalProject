@@ -3,7 +3,7 @@
 /workspace.xml
 # Editor-based HTTP Client requests
 /httpRequests/
-node_module/
+node_module /
 # ignore all files starting with . or ~
 .*
 ~*
